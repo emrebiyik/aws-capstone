@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo.png" width="150" alt="Logo" />
+  <img src="logo.png" width="300" alt="Logo" />
 </p>
 
 # Emre Capstone Blog Project
